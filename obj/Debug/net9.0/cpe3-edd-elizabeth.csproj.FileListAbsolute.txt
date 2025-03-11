@@ -1,0 +1,15 @@
+C:\Users\Leodd\cpe3-edd-elizabeth\bin\Debug\net9.0\cpe3-edd-elizabeth.exe
+C:\Users\Leodd\cpe3-edd-elizabeth\bin\Debug\net9.0\cpe3-edd-elizabeth.deps.json
+C:\Users\Leodd\cpe3-edd-elizabeth\bin\Debug\net9.0\cpe3-edd-elizabeth.runtimeconfig.json
+C:\Users\Leodd\cpe3-edd-elizabeth\bin\Debug\net9.0\cpe3-edd-elizabeth.dll
+C:\Users\Leodd\cpe3-edd-elizabeth\bin\Debug\net9.0\cpe3-edd-elizabeth.pdb
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.AssemblyInfoInputs.cache
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.AssemblyInfo.cs
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.csproj.CoreCompileInputs.cache
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.sourcelink.json
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.dll
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\refint\cpe3-edd-elizabeth.dll
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.pdb
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\cpe3-edd-elizabeth.genruntimeconfig.cache
+C:\Users\Leodd\cpe3-edd-elizabeth\obj\Debug\net9.0\ref\cpe3-edd-elizabeth.dll
